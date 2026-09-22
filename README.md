@@ -44,8 +44,10 @@
 
 **My GitHub Stats**
 
-[![Kadirul's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadirulislam&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](http://www.github.com/kadirulislam)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kadirulislam&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kadirulislam&theme=dracula)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kadirulislam&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/kadirulislam)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kadirulislam&theme=dark&hide_border=true&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0891b2&sideLabels=ffffff&dates=ffffff&background=1c1917)](http://www.github.com/kadirulislam)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kadirulislam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/kadirulislam)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kadirulislam&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kadirulislam&theme=dracula)
